@@ -1,0 +1,60 @@
+{
+    "CPS310": [
+        {
+            "problems": "I felt that the exams did not reflect the content we were taught.",
+            "recommended_prereq": "CPS210"
+        },
+        {
+            "problems": "Assignments took way too long to complete.",
+            "recommended_prereq": "CPS210"
+        },
+        {
+            "problems": "I had a lot of trouble with learning recursion cases as a beginner",
+            "recommended_prereq": "MAT320"
+        }
+    ],
+    "CPS342": [
+        {
+            "problems": "I did not feel like I had enough time to finish exams.",
+            "recommended_prereq": "CPS210, CPS310, CPS315, CP340"
+        }
+    ],
+    "CPS415": [
+        {
+            "problems": "I did not feel like the quizzes and assignments prepped me exams",
+            "recommended_prereq": "MAT320"
+        }
+    ],
+    "EGC220": [
+        {
+            "problems": "It is a very class to go in without proper base knowledge about boolean logic. I do not recommend taking this course unless you have taken a discrete mathematics course or an assembly course.",
+            "recommended_prereq": "MAT320, EGC220"
+        },
+        {
+            "problems": "It was hard to learn anything without prior knowledge of boolean logic",
+            "recommended_prereq": "MAT320"
+        },
+        {
+            "problems": "Everything. Very difficult class if you do not know a good bit  about circuitry beforehand",
+            "recommended_prereq": "MAT320, CPS330"
+        }
+    ],
+    "EGC221": [
+        {
+            "problems": "You learn a lot of things on your own in this class and have to rely a lot on web documentation to understand things like wiring breadboards and such. ",
+            "recommended_prereq": "MAT320, CPS330"
+        }
+    ],
+    "CPS210": [
+        {
+            "problems": "I did not feel like I had an easy time in this course as a beginner to computer structures as a whole.",
+            "recommended_prereq": "MAT320, CPS100"
+        }
+    ],
+    "CPS353": [
+        {
+            "problems": "I found that I would have had an easier time taking this class if I had more time developing my skills with higher level concepts",
+            "recommended_prereq": "CPS315"
+        }
+    ]
+}

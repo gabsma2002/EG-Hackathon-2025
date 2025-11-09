@@ -5,14 +5,30 @@ FEEDBACK_FILE = "feedback.json"
 
 # Example editable course list (add/remove courses as needed)
 COURSE_LIST = {
+    "CPS100": "Computers and Applications",
     "CPS210": "Computer Science I",
     "CPS310": "Computer Science II",
-    "CPS315": "Computer Organization",
-    "CPS330": "Assembly Programming",
+    "CPS315": "Conputer Science III",
+    "CPS330": "Assembly Language and Computer Architecture",
     "CPS352": "Data Structures",
-    "CPS353": "Operating Systems",
+    "CPS340": "Operating Systems 1",
     "CPS430": "Database Systems",
-    "CPS493": "Computer Science Seminar"
+    "CPS493": "Computer Science Seminar",
+    "CPS104": "Visual Programming",
+    "CPS110": "Web Page Design",
+    "CPS193": "Computer Science Selected Topic",
+    "CPS293": "Computer Science Selected Topic",
+    "CPS340": "Operating Systems I",
+    "CPS341": "Operating Systems II",
+    "CPS342": "Embedded Linux",
+    "CPS352": "Object Oriented Programming",
+    "CPS353": "Software Engineering",
+    "CPS393": "Computer Science Selected Topic",
+    "CPS415": "Discrete and Continuous Computer Algorithms",
+    "MAT320": "Discrete Math for Computing",
+    "EGC220": "Digital Logic Fundamentals",
+    "EGC221": "Digital Logic Lab",
+
 }
 
 # Load existing feedback if available
